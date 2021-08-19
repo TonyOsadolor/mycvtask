@@ -173,11 +173,11 @@ if(isset($_POST['send'])){
         $mail->send();
                 /* Adding Email Function to Successful Signup */
                 echo "<script>alert('Message Sent!')</script>";
-                //echo "<script>location.href='index.php'</script>";
+                echo "<script>location.href='index.php'</script>";
             } catch (Exception $e) {
                 //Displaying Error Message
                 echo "<script>alert('Message Not Successful')</script>";
-                //echo "<script>location.href='index.php'</script>";
+                echo "<script>location.href='index.php'</script>";
             }
 } else {
     echo "<script>alert('Sorry, This is Forbidden')</script>";
