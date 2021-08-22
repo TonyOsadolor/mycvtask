@@ -85,12 +85,6 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
       <div class="col-md-5 offset-md-1">
         <div class="row mt-2">
           <div class="col-sm-4">
-            <div class="pb-1">Age</div>
-          </div>
-          <div class="col-sm-8">
-            <div class="pb-1 text-secondary">28</div>
-          </div>
-          <div class="col-sm-4">
             <div class="pb-1">Email</div>
           </div>
           <div class="col-sm-8">
@@ -271,19 +265,19 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
               <h4>My Intership Credits goes to</h4>
           </div>
           <div class="row">
-              <div class="col-md-4">
-                  <div class="mb-2 align-items-center">
-                      <img src="images/hng1.png" alt="The HNG Internship" width="70%" />
+              <div class="col-md-4" style="margin-bottom:10px;">
+                  <div class="mb-2 shadow-sm mt-1 me-1 btn-light" style="border:2px solid black;padding:10px 0px;border-radius:8px;width:100%;height:80px;">
+                      <center><img src="images/hng1.png" alt="The HNG Internship" width="70%" style="amrgin:0% auto;" /></center>
                   </div>
               </div>
-              <div class="col-md-4">
-                  <div class="mb-2">
-                      <img src="images/i4g.png" alt="Ingressive for Good" width="70%" />
+              <div class="col-md-4" style="margin-bottom:10px;">
+                  <div class="mb-2 shadow-sm mt-1 me-1 btn-light" style="border:2px solid black;padding:10px 0px;border-radius:8px;width:100%;height:80px;">
+                      <center><img src="images/i4g.png" alt="Ingressive for Good" width="70%" style="amrgin:0% auto;" /></center>
                   </div>
               </div>
-              <div class="col-md-4">
-                  <div class="mb-2 align-items-center">
-                      <img src="images/zuri.png" alt="Zuri Training" width="70%" />
+              <div class="col-md-4" style="margin-bottom:10px;">
+                  <div class="mb-2 shadow-sm mt-1 me-1 btn-light" style="border:2px solid black;padding:10px 0px;border-radius:8px;width:100%;height:80px;">
+                      <center><img src="images/zuri.png" alt="Zuri Training" width="70%" style="amrgin:0% auto;" /></center>
                   </div>
               </div>
           </div>
