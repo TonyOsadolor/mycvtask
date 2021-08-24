@@ -65,7 +65,7 @@ related issues.</i></li></ol>
 
     $obj_pdf->writeHTML($content);
     
-    $obj_pdf->Output('TestPDF', 'I');
+    $obj_pdf->Output('OsadolorCV', 'I');
 //}
 
 ?>
