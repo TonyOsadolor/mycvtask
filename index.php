@@ -111,6 +111,11 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
     <h2 class="h3 mb-3">Professional Skills</h2>
     <div class="row">
       <div class="col-md-6">
+        <div class="mb-2"><span>PHP</span>
+          <div class="progress my-1">
+            <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
         <div class="mb-2"><span>HTML</span>
           <div class="progress my-1">
             <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
@@ -128,6 +133,11 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
+        <div class="mb-2"><span>Corel Draw</span>
+          <div class="progress my-1">
+            <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
         <div class="mb-2"><span>Adobe Photoshop</span>
           <div class="progress my-1">
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
@@ -142,9 +152,23 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
     <div class="timeline">
       <div class="timeline-card timeline-card-primary card shadow-sm">
         <div class="card-body">
+          <div class="h5 mb-1">Backend (PHP) Developer <span class="text-muted h6">at Zuri Training, Remotely</span></div>
+          <div class="text-muted text-small mb-2">February, 2021 - July, 2021</div>
+          <div>❖ Joint a Project Team that build a Platform that help monitor Children Vaccination and Preferred Hospitals to visit for Vaccination.</div>
+        </div>
+      </div>
+      <div class="timeline-card timeline-card-primary card shadow-sm">
+        <div class="card-body">
           <div class="h5 mb-1">Web Developer <span class="text-muted h6">at Taylors Hair Nigeria, Lagos State</span></div>
           <div class="text-muted text-small mb-2">November, 2019 - Present</div>
           <div>❖ In charge of the general maintenance of the Company's Offical Website.</div>
+        </div>
+      </div>
+      <div class="timeline-card timeline-card-primary card shadow-sm">
+        <div class="card-body">
+          <div class="h5 mb-1">Web Developer <span class="text-muted h6">at Nigeria Association of Computing Students (NACOS) South-South Zone</span></div>
+          <div class="text-muted text-small mb-2">October, 2018 - Present</div>
+          <div>❖ Built and maintenance the South South Zonal Registration Website.</div>
         </div>
       </div>
       <div class="timeline-card timeline-card-primary card shadow-sm">
