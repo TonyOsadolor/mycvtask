@@ -7,7 +7,8 @@ $email = "tonyentertain@gmail.com";
 $phone1 = "09033987418";
 $phone2 = "08026627552";
 $whatsapp = "+2349033987418";
-$address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhueniro, Benin City, Edo State.";
+$address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhueniro, Benin City, Edo
+State.";
 
 ?>
 
@@ -71,8 +72,8 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
       </div>
       <div class="col-lg-8 col-md-7 text-center text-md-start">
         <h2 class="h1 mt-2" data-aos="fade-left" data-aos-delay="0"><?php echo $fullnames; ?></h2>
-        <p data-aos="fade-left" data-aos-delay="100">Graphic Designer & Web Developer (Backend - PHP)</p>
-        <div class="d-print-none" data-aos="fade-left" data-aos-delay="200"><a class="btn btn-light text-dark shadow-sm mt-1 me-1" href="OsadolorCV.pdf" target="_blank">Download CV</a><a class="btn btn-success shadow-sm mt-1" href="#contact">Hire Me</a></div>
+        <p data-aos="fade-left" data-aos-delay="100">Graphic Designer & Web Developer (Backend - PHP / Laravel)</p>
+        <div class="d-print-none" data-aos="fade-left" data-aos-delay="200"><a class="btn btn-light text-dark shadow-sm mt-1 me-1" href="printer/getpdf.php" target="_blank">Download CV</a><a class="btn btn-success shadow-sm mt-1" href="#contact">Hire Me</a></div>
       </div>
     </div>
   </div>
@@ -80,7 +81,7 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
     <div class="row">
       <div class="col-md-6">
         <h2 class="h3 mb-3">About Me</h2>
-        <p><i>Dedicated and Patient-Focused, young adventurous Programmer, ready to touch the world. Believe the little act of kindness builds the most valued relationship. <br> Simplicity is the Key to a Happy Life.</i></p>
+        <p><i>Dedicated, Patient and Focused, young adventurous Programmer, ready to touch the world. Believe the little act of kindness builds the most valued relationship. <br> Simplicity is the Key to a Happy Life.</i></p>
       </div>
       <div class="col-md-5 offset-md-1">
         <div class="row mt-2">
@@ -116,6 +117,11 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
             <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
+        <div class="mb-2"><span>Laravel</span>
+          <div class="progress my-1">
+            <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
         <div class="mb-2"><span>HTML</span>
           <div class="progress my-1">
             <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
@@ -143,6 +149,11 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
+        <div class="mb-2"><span>Microsoft Office Suit</span>
+          <div class="progress my-1">
+            <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 800%" aria-valuenow="800" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -154,7 +165,7 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
         <div class="card-body">
           <div class="h5 mb-1">Backend (PHP) Developer <span class="text-muted h6">at Zuri Training, Remotely</span></div>
           <div class="text-muted text-small mb-2">February, 2021 - July, 2021</div>
-          <div>❖ Joint a Project Team that build a Platform that help monitor Children Vaccination and Preferred Hospitals to visit for Vaccination.</div>
+          <div>❖ Joined a Project Team that built a Platform that helps to monitor Children Vaccination and Preferred Hospitals to visit for Vaccination.</div>
         </div>
       </div>
       <div class="timeline-card timeline-card-primary card shadow-sm">
@@ -168,7 +179,7 @@ $address = "1, Anthony Hayble’s Crescent, Off R.C.C., Benin-Agbor Road, Ikhuen
         <div class="card-body">
           <div class="h5 mb-1">Web Developer <span class="text-muted h6">at Nigeria Association of Computing Students (NACOS) South-South Zone</span></div>
           <div class="text-muted text-small mb-2">October, 2018 - Present</div>
-          <div>❖ Built and maintenance the South South Zonal Registration Website.</div>
+          <div>❖ Built and in charge of the general maintenance the South South Zonal Registration Website.</div>
         </div>
       </div>
       <div class="timeline-card timeline-card-primary card shadow-sm">
